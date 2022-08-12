@@ -1,0 +1,9 @@
+.background_image{
+    background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(../Pics/Right_Topic_For\ Blog.jpg);
+    background-size: cover;
+    align-items: center;
+    position: relative;
+    background-position: center;
+    width: 100%;
+    min-height: 100vh;
+}
